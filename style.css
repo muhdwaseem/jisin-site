@@ -25,11 +25,14 @@ background-position: center;
 
     color: white;
 }
+
+
 .navbar ul li{
     list-style: none;
     display: inline-block;
     margin: 0 20px;
     position: relative;
+    text-align: left;
 }
 .navbar ul li a{
     text-decoration: none;
